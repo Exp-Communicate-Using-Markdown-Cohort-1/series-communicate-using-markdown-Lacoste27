@@ -6,3 +6,7 @@
 ```javascript
 console.log("This is code block on markdown")
 ```
+
+- [ ] Turn on Githu Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
